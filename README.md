@@ -1,6 +1,6 @@
 # Mongo Express on Kubernetes
 
-This project implements a basic web-based MongoDB admin interface on a Minikube kubernetes cluster.
+This project implements a basic web-based MongoDB admin interface on a Intersight kubernetes cluster.
 
 ![](resources/k8-flow.jpg)
 
