@@ -86,3 +86,15 @@ More detail is available on [IKS installation](https://github.com/bay-infotech/t
 - `kubectl apply -f mongo-ingress.yml` to create the Ingress called mongodb-ingress.
 - `kubectl delete -f mongo-ingress.yml` to delete the Ingress.
 - `kubectl get ing -n mongodb-namespace` to list all Ingresses.
+
+## BayInfotech Repositories
+
+Please visit our repositories for more detail and other projects in automation and programability:
+
+[https://github.com/bay-infotech](https://github.com/bay-infotech)
+
+
+## BayInfotech website
+We are working hard to bring more automation and programmability into community. Please contact us for more detail projects and solutions
+
+[https://bay-infotech.com](https://bay-infotech.com)
